@@ -1,7 +1,5 @@
 import React from 'react'
 import Logo from '../assets/logo.jpg'
-import {motion} from 'framer-motion';
-import {fadeIn} from '../variants';
 
 export const Header = () => {
   return (

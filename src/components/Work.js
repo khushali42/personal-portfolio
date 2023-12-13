@@ -66,7 +66,7 @@ export const Work = () => {
               
             </div>
             </a>
-            <a href="">
+            <a href="https://github.com/khushali42">
             <div
               className="group relative overflow-hidden border-2 border-white/50 
             rounded-xl"

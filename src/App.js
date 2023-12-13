@@ -1,7 +1,6 @@
 import './App.css';
 import {About} from './components/About'
 import {Header} from './components/Header'
-import {Services} from './components/Services'
 import {Nav} from './components/Nav'
 import {Banner} from './components/Banner'
 import {Work} from './components/Work'

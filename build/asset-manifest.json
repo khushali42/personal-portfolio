@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.b441f5de.css",
+    "main.js": "/personal-portfolio/static/js/main.eb22fe80.js",
+    "static/js/787.fb771931.chunk.js": "/personal-portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/profile.png": "/personal-portfolio/static/media/profile.8fab7ca1e624429aea5b.png",
+    "static/media/site-bg.jpg": "/personal-portfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/portfolio-img2.png": "/personal-portfolio/static/media/portfolio-img2.dce12ee62dac81cbd2da.png",
+    "static/media/portfolio-img3.jpg": "/personal-portfolio/static/media/portfolio-img3.02d1b98d6d6448883a59.jpg",
+    "static/media/about.png": "/personal-portfolio/static/media/about.9c88c87596044e9032f5.png",
+    "static/media/agriscan.jpg": "/personal-portfolio/static/media/agriscan.9062a7aa2e38deb8a734.jpg",
+    "static/media/quiz.jpg": "/personal-portfolio/static/media/quiz.7c62f4151a7cdcaf32aa.jpg",
+    "static/media/portfolio-img1.jpg": "/personal-portfolio/static/media/portfolio-img1.fb1b08600d73af50af99.jpg",
+    "index.html": "/personal-portfolio/index.html",
+    "main.b441f5de.css.map": "/personal-portfolio/static/css/main.b441f5de.css.map",
+    "main.eb22fe80.js.map": "/personal-portfolio/static/js/main.eb22fe80.js.map",
+    "787.fb771931.chunk.js.map": "/personal-portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b441f5de.css",
+    "static/js/main.eb22fe80.js"
+  ]
+}
