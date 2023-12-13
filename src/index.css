@@ -53,11 +53,32 @@ code {
   border-radius: 100%;
 }
 
+.div{
+  background: linear-gradient(
+    92.23deg,
+    #ff56f6 21.43%,
+    #b936ee 50.63%,
+    #3bace2 100%,
+    #406aff 117.04%
+  );
+  box-shadow: 0px 4.42184px 107.23px rgba(255, 86, 246, 0.51);
+  border-radius: 30px;
+  padding: 10px
+}
+
 @layer base {
   body {
     @apply font-secondary text-lg leading-8 text-white;
   }
 
+  .div {
+    @apply font-bold text-center;
+  }
+
+  .h1{
+    @apply font-bold text-[40px];
+  }
+  
   .h2{
     @apply font-primary text-[32px] mb-6 tracking-[10%] uppercase;
   }
@@ -88,6 +109,6 @@ code {
   }
 
   .section {
-    @apply py-8 lg:py-24 lg:h-screen flex items-center;
+    @apply lg:py-24 lg:h-screen flex items-center;
   }
 }
